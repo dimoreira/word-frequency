@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
+#!/bin/bash
 gunicorn app:app --daemon
 python worker.py
