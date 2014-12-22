@@ -1,4 +1,5 @@
 *.so
+*.py[cod]
 .Python
 env/
 bin/
